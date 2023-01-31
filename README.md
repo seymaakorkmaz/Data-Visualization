@@ -1,2 +1,2 @@
-# Data-Visualization-AI
-#### Simple data visualization exercises.
+### Data-Visualization-AI
+- Simple data visualization exercises.
